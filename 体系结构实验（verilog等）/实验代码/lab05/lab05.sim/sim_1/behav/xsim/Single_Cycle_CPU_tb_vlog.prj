@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab05.srcs/sources_1/imports/lab34src/ALU.v" \
+"../../../../lab05.srcs/sources_1/imports/lab34src/ALUCtr.v" \
+"../../../../lab05.srcs/sources_1/imports/lab34src/Ctr.v" \
+"../../../../lab05.srcs/sources_1/new/InstMem.v" \
+"../../../../lab05.srcs/sources_1/new/MUX.v" \
+"../../../../lab05.srcs/sources_1/new/MUX_5.v" \
+"../../../../lab05.srcs/sources_1/new/PC.v" \
+"../../../../lab05.srcs/sources_1/new/PCupdate.v" \
+"../../../../lab05.srcs/sources_1/imports/lab34src/Register.v" \
+"../../../../lab05.srcs/sources_1/new/Top.v" \
+"../../../../lab05.srcs/sources_1/imports/lab34src/dataMemory.v" \
+"../../../../lab05.srcs/sources_1/imports/lab34src/signext.v" \
+"../../../../lab05.srcs/sim_1/new/Single_Cycle_CPU_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

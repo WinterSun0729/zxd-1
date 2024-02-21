@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ProblemSolving/code/2-1/MyClass1.cpp
+std_lib_facilities.h
+E:/ProblemSolving/code/2-1/std_lib_facilities.h
+MyClass1.h
+E:/ProblemSolving/code/2-1/MyClass1.h
+
+E:/ProblemSolving/code/2-1/MyClass1.h
+std_lib_facilities.h
+E:/ProblemSolving/code/2-1/std_lib_facilities.h
+set
+-
+
+E:/ProblemSolving/code/2-1/std_lib_facilities.h
+algorithm
+-
+cmath
+-
+iomanip
+-
+iostream
+-
+fstream
+-
+stdexcept
+-
+string
+-
+sstream
+-
+vector
+-
+
