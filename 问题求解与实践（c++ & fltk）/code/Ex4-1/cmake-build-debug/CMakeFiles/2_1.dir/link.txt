@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\Clion2020.1\CLion-2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\2_1.dir/objects.a
-"D:\Program Files\mingw64\bin\ar.exe" cr CMakeFiles\2_1.dir/objects.a @CMakeFiles\2_1.dir\objects1.rsp
-"D:\Program Files\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\2_1.dir/objects.a -Wl,--no-whole-archive  -o 2_1.exe -Wl,--out-implib,lib2_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2_1.dir\linklibs.rsp

@@ -1,0 +1,8 @@
+Winner: red
+Text: Black timeout, Red wins!
+History:
+(9, 1, 7, 2, 0)
+(2, 1, 6, 1, 0)
+(9, 7, 7, 6, 0)
+(0, 1, 2, 0, 0)
+(7, 1, 7, 0, 0)

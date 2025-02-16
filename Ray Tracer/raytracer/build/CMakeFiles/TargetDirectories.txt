@@ -1,0 +1,3 @@
+/Users/zhouxudong/Desktop/Lab/Graphic/raytracer/build/CMakeFiles/RayTracing.dir
+/Users/zhouxudong/Desktop/Lab/Graphic/raytracer/build/CMakeFiles/edit_cache.dir
+/Users/zhouxudong/Desktop/Lab/Graphic/raytracer/build/CMakeFiles/rebuild_cache.dir

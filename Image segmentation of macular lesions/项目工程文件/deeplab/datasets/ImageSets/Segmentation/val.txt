@@ -1,0 +1,4 @@
+mmac_task_2_train_CNV_0012
+mmac_task_2_train_CNV_0005
+mmac_task_2_train_CNV_0001
+mmac_task_2_train_CNV_0003

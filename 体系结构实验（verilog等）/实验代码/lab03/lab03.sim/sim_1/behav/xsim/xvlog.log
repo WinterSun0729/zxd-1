@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/Vivado/lab03/lab03.srcs/sources_1/new/ALU.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module ALU
-ERROR: [VRFC 10-2989] 'iput1' is not declared [Y:/Vivado/lab03/lab03.srcs/sources_1/new/ALU.v:45]
-ERROR: [VRFC 10-2865] module 'ALU' ignored due to previous errors [Y:/Vivado/lab03/lab03.srcs/sources_1/new/ALU.v:23]
